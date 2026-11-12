@@ -1,0 +1,6 @@
+{
+  "name": "HILALPOS — Hilal.art",
+  "description": "Sistem Kasir & Manajemen Toko Perlengkapan Seni Hilal.art - Satu Sistem, Semua Usaha",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
